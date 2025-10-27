@@ -22,10 +22,6 @@ The system integrates predictive modeling (**ARIMA**, **LSTM**, **Linear Regress
 This application predicts stock prices for the **next seven days** and integrates **real-time sentiment analysis of tweets** to determine whether the stock is expected to **rise or fall**.  
 It features a **Flask + WordPress hybrid front-end**, a **Python-based backend**, and a lightweight **MySQL** database powered by XAMPP.
 
-**Demo Video:**  
-[<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/banner.png">](https://www.youtube.com/watch?v=xnq7mBdJAJk "Stock Market Prediction Web App Demo")
-
----
 
 ## 🌟 Key Features
 
