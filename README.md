@@ -11,10 +11,6 @@ The system integrates predictive modeling (**ARIMA**, **LSTM**, **Linear Regress
 2. [Key Features](#key-features)
 3. [Built With](#built-with)
 4. [Installation Guide](#installation-guide)
-5. [Screenshots](#screenshots)
-6. [Authors](#authors)
-7. [Links](#links)
-
 ---
 
 ## 🧠 System Overview
@@ -38,15 +34,6 @@ It features a **Flask + WordPress hybrid front-end**, a **Python-based backend**
 - Manage user accounts (CRUD operations)
 - Trigger **automated email alerts**
 - Access all user-level functionalities
-
----
-
-## 🖼️ Screenshots
-
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/banner.png">
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/banner2.PNG">
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/11-resuts.png" width="750">
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/wp-admin.PNG" width="750">
 
 ---
 
