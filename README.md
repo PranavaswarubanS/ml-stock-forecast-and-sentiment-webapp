@@ -1,4 +1,3 @@
-# ml-stock-forecast-and-sentiment-webapp
 # ML Stock Forecast and Sentiment Web App
 
 A **Stock Market Forecasting Web Application** built with **Machine Learning** and **Sentiment Analysis** to predict short-term price movements for NASDAQ and NSE equities.  
